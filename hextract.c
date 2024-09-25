@@ -3,6 +3,7 @@
 #include <stdbool.h>
 #include <stdint.h>
 
+
 /*
     HEXTRACT:
         File input: Argument -> Enter relative or full path of file to extract hex data
